@@ -1,1 +1,2 @@
 hello nairobi 
+To go back to the original version, you can try running git log then copy the earliest commit and run git checkout kdkd where kdkd is the earliest state.
